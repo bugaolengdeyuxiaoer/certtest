@@ -1,0 +1,15 @@
+C:\Users\mackyu\source\repos\certtest\certtest\bin\Debug\net6.0\certtest.exe
+C:\Users\mackyu\source\repos\certtest\certtest\bin\Debug\net6.0\certtest.deps.json
+C:\Users\mackyu\source\repos\certtest\certtest\bin\Debug\net6.0\certtest.runtimeconfig.json
+C:\Users\mackyu\source\repos\certtest\certtest\bin\Debug\net6.0\certtest.dll
+C:\Users\mackyu\source\repos\certtest\certtest\bin\Debug\net6.0\certtest.pdb
+C:\Users\mackyu\source\repos\certtest\certtest\obj\Debug\net6.0\certtest.csproj.AssemblyReference.cache
+C:\Users\mackyu\source\repos\certtest\certtest\obj\Debug\net6.0\certtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mackyu\source\repos\certtest\certtest\obj\Debug\net6.0\certtest.AssemblyInfoInputs.cache
+C:\Users\mackyu\source\repos\certtest\certtest\obj\Debug\net6.0\certtest.AssemblyInfo.cs
+C:\Users\mackyu\source\repos\certtest\certtest\obj\Debug\net6.0\certtest.csproj.CoreCompileInputs.cache
+C:\Users\mackyu\source\repos\certtest\certtest\obj\Debug\net6.0\certtest.dll
+C:\Users\mackyu\source\repos\certtest\certtest\obj\Debug\net6.0\refint\certtest.dll
+C:\Users\mackyu\source\repos\certtest\certtest\obj\Debug\net6.0\certtest.pdb
+C:\Users\mackyu\source\repos\certtest\certtest\obj\Debug\net6.0\certtest.genruntimeconfig.cache
+C:\Users\mackyu\source\repos\certtest\certtest\obj\Debug\net6.0\ref\certtest.dll
