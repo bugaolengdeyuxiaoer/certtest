@@ -15,7 +15,7 @@ foreach (X509Certificate2 cert in store.Certificates)
 
 // Find the root certificate by its subject name
 X509Certificate2Collection certs = store.Certificates.Find(
-    X509FindType.FindBySubjectName, "CN=ameroot, DC=AME, DC=GBL", true);
+    X509FindType.FindBySubjectDistinguishedName, "CN=ameroot, DC=AME, DC=GBL", true);
 
 // Get the first matching certificate
 if (certs.Count() > 0)
